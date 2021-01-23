@@ -1,4 +1,4 @@
-THE SECOND BOOK OF ESDRAS.
+THE SECOND BOOK OF ESDRAS
 
 1:1 THE second book of the prophet Esdras, the son of Saraias, the son of Azaraias, the son of Helkias, the son of Salemas, the son of Sadoc, the son of Ahitob,
 1:2 the son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of Arna, the son of Ozias, the son of Borith, the son of Abissei, the son of Phinees, the son of Eleazar,
@@ -31,7 +31,7 @@ THE SECOND BOOK OF ESDRAS.
 1:29 that ye would be my people, and I should be your God; that ye would be my children, and I should be your father?
 1:30 I gathered you together, as a hen [gathereth] her chickens under her wings: but now, what shall I do unto you? I will cast you out from my presence.
 1:31 When ye offer oblations unto me, I will turn my face from you: for your solemn feast days, your new moons, and your circumcisions of the flesh, have I rejected.
-1:32 I sent unto you my servants the prophets, whom ye have taken and slain, and torn their bodies in pieces, whose blood I will require [of your hands,] saith the Lord.
+1:32 I sent unto you my servants the prophets, whom ye have taken and slain, and torn their bodies in pieces, whose blood I will require [of your hands], saith the Lord.
 1:33 Thus saith the Lord Almighty, Your house is desolate, I will cast you out as the wind doth stubble.
 1:34 And your children shall not be fruitful; for they have neglected my commandment unto you, and done that which is evil before me.
 1:35 Your houses will I give to a people that shall come; which not having heard of me yet believe me; they to whom I have shewed no signs shall do that which I have commanded.
@@ -40,6 +40,7 @@ THE SECOND BOOK OF ESDRAS.
 1:38 And now, O father, behold with glory; and see the people that come from the east:
 1:39 unto whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
 1:40 Nahum, and Abacuc, Sophonias, Aggaeus, Zachary, and Malachy, which is called also the angel of the Lord.
+
 2:1 Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by my servants the prophets; whom they would not hear, but set my counsels at nought.
 2:2 The mother that bare them saith unto them, go your way, O my children; for I am a widow and forsaken.
 2:3 I brought you up with gladness, and with sorrow and heaviness have I lost you: for ye have sinned before the Lord God, and done that which is evil before me.
@@ -88,6 +89,7 @@ THE SECOND BOOK OF ESDRAS.
 2:46 Then said I unto the angel, What young man is he that setteth crowns upon them, and giveth them palms in their hands?
 2:47 So he answered and said unto me, It is the Son of God, whom they have confessed in the world. Then began I greatly to commend them that stood so stiffly for the name of the Lord.
 2:48 Then the angel said unto me, Go thy way, and tell my people what manner of things, and how great wonders of the Lord God thou hast seen.
+
 3:1 In the thirtieth year after the ruin of the city, I Salathiel (the same is Esdras) was in Babylon, and lay troubled upon my bed, and my thoughts came up over my heart:
 3:2 for I saw the desolation of Sion, and the wealth of them that dwelt at Babylon.
 3:3 And my spirit was sore moved, so that I began to speak words full of fear to the Most High, and said,
@@ -95,7 +97,7 @@ THE SECOND BOOK OF ESDRAS.
 3:5 and it gave thee Adam, a body without a soul? yet it was the workmanship of thine hands, and thou didst breathe into him the breath of life, and he was made living before thee.
 3:6 And thou leddest him into paradise, which thy right hand did plant, before ever the earth came forward.
 3:7 And unto him thou gavest thy one commandment: which he transgressed, and immediately thou appointedst death for him and in his generations; and there were born of him nations and tribes, peoples and kindreds, out of number.
-3:8 And every nation walked after their own will, and did ungodly things before thee, and despised [thy commandments,] and thou didst not forbid them.
+3:8 And every nation walked after their own will, and did ungodly things before thee, and despised [thy commandments], and thou didst not forbid them.
 3:9 Nevertheless again in process of time thou broughtest the flood upon those that dwelt in the world, and destroyedst them.
 3:10 And it came to pass that the same hap befell them; like as death was to Adam, so was the flood to these.
 3:11 Nevertheless one of them thou leftest, Noah with his household, [even] all the righteous men [that came] of him.
@@ -120,10 +122,11 @@ THE SECOND BOOK OF ESDRAS.
 3:30 For I have seen how thou sufferest them sinning, and hast spared the ungodly doers, and hast destroyed thy people, and hast preserved thine enemies; and thou hast not signified
 3:31 unto any how thy way may be comprehended. Are the deeds of Babylon better than those of Sion?
 3:32 Or is there any other nation that knoweth thee beside Israel? or what tribes have so believed thy covenants as these [tribes of] Jacob?
-3:33 And yet their reward appeareth not, and their labour hath no fruit: for I have gone hither and thither through the nations, and I see that they abound [in wealth,] and think not upon thy commandments.
+3:33 And yet their reward appeareth not, and their labour hath no fruit: for I have gone hither and thither through the nations, and I see that they abound [in wealth], and think not upon thy commandments.
 3:34 Weigh thou therefore our iniquities now in the balance, and theirs also that dwell in the world; and so shall it be found which way the scale inclineth.
 3:35 Or when was it that they which dwell upon the earth have not sinned in thy sight? or what nation hath so kept thy commandments?
 3:36 Thou shalt find that men [who may be reckoned] by name have kept thy precepts; but nations thou shalt not find.
+
 4:1 And the angel that was sent unto me, whose name was Uriel, gave me an answer,
 4:2 and said to me, thy heart hath utterly failed thee in [regarding] this world, and thinkest thou to comprehend the way of the Most High?
 4:3 Then said I, Yea my Lord. And he answered me, and said, I am sent to shew thee three ways, and to set forth three similitudes before thee:
@@ -146,11 +149,11 @@ THE SECOND BOOK OF ESDRAS.
 4:20 Then answered he me, and said, Thou hast given a right judgement, and why judgest thou not in thine own case?
 4:21 For like as the ground is given unto the wood, and the sea to his waves, even so they that dwell upon the earth may understand nothing but that which is upon the earth: and he [only that dwelleth] above the heavens [may understand] the things that are above the height of the heavens.
 4:22 Then answered I and said, I beseech thee, O Lord, wherefore is the power of understanding given unto me?
-4:23 For it was not in my mind to be curious of the ways above, but of such things as pass by us daily; because Israel is given up as a reproach to the heathen, [and] the people whom thou hast loved is given over unto ungodly nations, and the law of our forefathers is made of none effect, and the written covenants are nowhere [regarded,]
+4:23 For it was not in my mind to be curious of the ways above, but of such things as pass by us daily; because Israel is given up as a reproach to the heathen, [and] the people whom thou hast loved is given over unto ungodly nations, and the law of our forefathers is made of none effect, and the written covenants are nowhere [regarded],
 4:24 and we pass away out of the world as grasshoppers, and our life is as a vapour, neither are we worthy to obtain mercy.
 4:25 What will he then do for his name whereby we are called? Of these things have I asked.
 4:26 Then he answered me, and said, if thou be [alive] thou shalt see, and if thou livest long, thou shalt marvel; for the world hasteth fast to pass away.
-4:27 For it is not able to bear the things that are promised to the righteous in the times [to come:] for this world is full of sadness and infirmities.
+4:27 For it is not able to bear the things that are promised to the righteous in the times [to come]: for this world is full of sadness and infirmities.
 4:28 For the evil whereof thou askest me is sown, but the gathering thereof is not yet come.
 4:29 If therefore that which is sown be not reaped, and if the place where the evil is sown pass not away, there cannot come the field where the good is sown.
 4:30 For a grain of evil seed was sown in the heart of Adam from the beginning, and how much wickedness hath it brought forth unto this time! and how much shall it yet bring forth until the time of threshing come!
@@ -176,6 +179,7 @@ THE SECOND BOOK OF ESDRAS.
 4:50 Then said he unto me, Consider with thyself; as the rain is more than the drops, and the fire is greater than the smoke, so the quantity which is past did more exceed; but the drops and the smoke remained still.
 4:51 Then I prayed, and said, May I live, thinkest thou, until that time? or who shall be in those days?
 4:52 He answered me, and said, As for the tokens whereof thou askest me, I may tell thee of them in part: but as touching thy life, I am not sent to shew thee; for I do not know it.
+
 5:1 Nevertheless as concerning the tokens, behold, the days shall come, that they which dwell upon earth shall be taken with great amazement, and the way of truth shall be hidden, and the land shall be barren of faith.
 5:2 But iniquity shall be increased above that which now thou seest, or that thou hast heard long ago.
 5:3 And the land, that thou seest now to have rule, shall be waste and untrodden, and men shall see it desolate.
@@ -216,7 +220,7 @@ THE SECOND BOOK OF ESDRAS.
 5:38 And I said, O Lord that bearest rule, who may know these things, but he that hath not his dwelling with men?
 5:39 As for me, I am unwise: how may I then speak of these things whereof thou askest me?
 5:40 Then said he unto me, Like as thou canst do none of these things that I have spoken of, even so canst thou not find out my judgement, or the end of the love that I have promised unto my people.
-5:41 And I said, But, lo, O Lord, thou hast made the promise unto them that be in the end: and what shall they do that have been before us, or we [that be now,] or they that shall come after us?
+5:41 And I said, But, lo, O Lord, thou hast made the promise unto them that be in the end: and what shall they do that have been before us, or we [that be now], or they that shall come after us?
 5:42 And he said unto me, I will liken my judgement unto a ring: like as there is no slackness of them that be last, even so there is no swiftness of them that be first.
 5:43 So I answered and said, Couldest thou not make them [to be] at once that have been made, and that be now, and that are for to come; that thou mightest shew thy judgment the sooner?
 5:44 Then answered he me, and said, The creature may not haste above the creator; neither may the world hold them at once that shall be created therein.
@@ -232,6 +236,7 @@ THE SECOND BOOK OF ESDRAS.
 5:54 Consider therefore thou also, how that ye are less of stature than those that were before you.
 5:55 And so are they that come after you less than ye, as [born] of the creature which now beginneth to be old, and is past the strength of youth.
 5:56 Then said I, Lord, I beseech thee, if I have found favor in thy sight, shew thy servant by whom thou visitest thy creature.
+
 6:1 And he said unto me, In the beginning, when the earth was made, before the outgoings of the world were fixed, or ever the gatherings of the winds blew,
 6:2 before the voices of the thunder sounded and before the flashes of the lightning shone, or ever the foundations of paradise were laid,
 6:3 before the fair flowers were seen, or ever the powers of the earthquake were established, before the innumerable hosts of angels were gathered together,
@@ -291,6 +296,7 @@ THE SECOND BOOK OF ESDRAS.
 6:57 And now, O Lord, behold these nations, which are reputed as nothing, be lords over us, and devour us.
 6:58 But we thy people, whom thou hast called thy firstborn, thy only begotten, and thy fervent lover, are given into their hands.
 6:59 If the world now be made for our sakes, why do we not possess for an inheritance our world? How long shall this endure?
+
 7:1 And when I had made an end of speaking these words, there was sent unto me the angel which had been sent unto me the nights afore:
 7:2 and he said unto me, Up, Esdras, and hear the words that I am come to tell thee.
 7:3 And I said, Speak on, my Lord. Then he said unto me, There is a sea set in a wide place, that it might be broad and vast.
@@ -338,7 +344,7 @@ THE SECOND BOOK OF ESDRAS.
 7:45 And I answered, I said even then, O Lord, and I say now: blessed are they that be now alive and keep the [statutes] ordained of thee.
 7:46 But as touching them for whom my prayer was made, [what shall I say?] for who is there of them that be alive that hath not sinned, and who of the sons [of men] that hath not transgressed thy covenant?
 7:47 And now I see, that the world to come shall bring delight to few, but torments unto many.
-7:48 For an evil heart hath grown up in us, which hath led us astray from these [statutes,] and hath brought us into corruption and into the ways of death, hath shewed us the paths of perdition and removed us far from life; and that, not a few only, but well nigh all that have been created.
+7:48 For an evil heart hath grown up in us, which hath led us astray from these [statutes], and hath brought us into corruption and into the ways of death, hath shewed us the paths of perdition and removed us far from life; and that, not a few only, but well nigh all that have been created.
 7:49 And he answered me, and said, Hearken unto me, and I will instruct thee; and I will admonish thee yet again:
 7:50 for this cause the Most High hath not made one world, but two.
 7:51 For whereas thou hast said that the just are not many, but few, and the ungodly abound, hear [the answer] thereunto.
@@ -406,7 +412,7 @@ THE SECOND BOOK OF ESDRAS.
 7:113 But the day of judgement shall be the end of this time, and the beginning of the immortality for to come, wherein corruption is passed away,
 7:114 intemperance is at an end, infidelity is cut off, but righteousness is grown, and truth is sprung up.
 7:115 Then shall no man be able to have mercy on him that is cast in judgement, nor to thrust down him that hath gotten the victory.
-7:116 I answered then and said, this is my first and last saying, that it had been better that the earth had not given [thee] Adam: or else, when it had given [him,] to have restrained him from sinning.
+7:116 I answered then and said, this is my first and last saying, that it had been better that the earth had not given [thee] Adam: or else, when it had given [him], to have restrained him from sinning.
 7:117 For what profit is it for all that are in this present time to live in heaviness, and after death to look for punishment?
 7:118 O thou Adam, what hast thou done? For though it was thou that sinned, the evil is not fallen on thee alone, but upon all of us that come of thee.
 7:119 For what profit is it unto us, if there be promised us an immortal time, whereas we have done the works that bring death?
@@ -427,10 +433,11 @@ THE SECOND BOOK OF ESDRAS.
 7:134 and longsuffering, for that he long suffereth those that have sinned, as his creatures;
 7:135 and bountiful, for that he is ready to give rather than to exact;
 7:136 and of great mercy, for that he multiplieth more and more mercies to them that are present, and that are past, and also to them which are to come;
-7:137 (for if he multiplied not [his mercies,] the world would not continue with them that dwell therein;)
+7:137 (for if he multiplied not [his mercies], the world would not continue with them that dwell therein;)
 7:138 and one that forgiveth, for if he did not forgive of his goodness, that they which have committed iniquities might be eased of them, the ten thousandth part of men would not remain living;
 7:139 and a judge, [for] if he did not pardon them that were created by his word, and blot out the multitude of offences,
 7:140 there would peradventure be very few left in an innumerable multitude.
+
 8:1 And he answered me, and said, The Most High hath made this world for many, but the world to come for few.
 8:2 I will tell thee now a similitude, Esdras; As when thou asketh the earth, it shall say unto thee, that it giveth very much mould whereof earthen vessels are made, and little dust that gold cometh of: even so is the course of the present world.
 8:3 There be many created, but few shall be saved.
@@ -445,7 +452,7 @@ THE SECOND BOOK OF ESDRAS.
 8:12 Yea, thou hast brought it up in thy righteousness, and nurtured it in thy law, and corrected it with thy judgement.
 8:13 And thou shalt mortify it as thy creature, and quicken it as thy work.
 8:14 If therefore thou shalt lightly and suddenly destroy him which with so great labour was fashioned by thy commandment, to what purpose was he made?
-8:15 Now therefore I will speak; touching man in general, thou knowest best; but touching thy people [will I speak,] for whose sake I am sorry;
+8:15 Now therefore I will speak; touching man in general, thou knowest best; but touching thy people [will I speak], for whose sake I am sorry;
 8:16 and for thine inheritance, for whose cause I mourn; and for Israel, for whom I am heavy; and for the seed of Jacob, for whose sake I am troubled;
 8:17 therefore will I begin to pray before thee for myself and for them: for I see the falls of us that dwell in the land;
 8:18 but I have heard the swiftness of the judgment which is to come.
@@ -474,10 +481,10 @@ THE SECOND BOOK OF ESDRAS.
 8:41 For as the husbandman soweth much seed upon the ground, and planteth many trees, and yet not all that is sown shall come up in due season, neither shall all that is planted take root: even so they that are sown in the world shall not all be saved.
 8:42 I answered then and said, if I have found favour, let me speak before thee.
 8:43 Forasmuch as the husbandman’s seed, if it come not up, seeing that it hath not received thy rain in due season, or if it be corrupted through too much rain, so perisheth;
-8:44 likewise man, which is formed with thy hands, and is called thine own image, because he is made like [unto thee,] for whose sake thou hast formed all things, even him hast thou made like unto the husbandman’s seed.
+8:44 likewise man, which is formed with thy hands, and is called thine own image, because he is made like [unto thee], for whose sake thou hast formed all things, even him hast thou made like unto the husbandman’s seed.
 8:45 Be not wroth with us, but spare thy people, and have mercy upon thine inheritance; for thou hast mercy upon thine own creation.
 8:46 Then answered he me, and said, Things present are for them that now be, and things to come for such as shall be hereafter.
-8:47 For thou comest far short that thou shouldest be able to love my creature more than I. But thou hast brought thyself full nigh unto the unrighteous. [Let this] never [be.]
+8:47 For thou comest far short that thou shouldest be able to love my creature more than I. But thou hast brought thyself full nigh unto the unrighteous. [Let this] never [be].
 8:48 Yet in this shalt thou be admirable unto the Most High;
 8:49 in that thou hast humbled thyself, as it becometh thee, and hast not judged thyself [worthy to be] among the righteous, so as to be much glorified.
 8:50 For many grievous miseries shall befall them that in the last times dwell in the world, because they have walked in great pride.
@@ -494,6 +501,7 @@ THE SECOND BOOK OF ESDRAS.
 8:61 And therefore is my judgement now at hand,
 8:62 which I have not shewed unto all men, but unto thee, and a few like thee. Then answered I and said,
 8:63 Behold, O Lord, now hast thou shewed me the multitude of the wonders, which thou wilt do in the last times: but at what time, thou hast not shewed me.
+
 9:1 And he answered me, and said, Measure thou diligently within thyself: and when thou seest that a certain part of the signs are past, which have been told thee beforehand,
 9:2 then shalt thou understand, that it is the very time, wherein the Most High will visit the world which was made by him.
 9:3 And when there shall be seen in the world earthquakes, disquietude of peoples, devices of nations, wavering of leaders, disquietude of princes,
@@ -504,9 +512,9 @@ THE SECOND BOOK OF ESDRAS.
 9:8 shall be preserved from the said perils, and shall see my salvation in my land, and within my borders, which I have sanctified for me from the beginning.
 9:9 Then shall they be amazed, which now have abused my ways: and they that have cast them away despitefully shall dwell in torments.
 9:10 For as many as in their life have received benefits, and yet have not known me;
-9:11 and as many as have scorned my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised [it;]
+9:11 and as many as have scorned my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised [it];
 9:12 the same must know [it] after death by torment.
-9:13 And therefore be thou no longer curious how the ungodly shall be punished; but inquire how the righteous shall be saved, they whose the world [is,] and for whom the world [was created.]
+9:13 And therefore be thou no longer curious how the ungodly shall be punished; but inquire how the righteous shall be saved, they whose the world [is], and for whom the world [was created].
 9:14 And I answered and said,
 9:15 I have said before, and now do speak, and will speak it also hereafter, that there be more of them which perish, than of the which will be saved:
 9:16 like as a wave is greater than a drop.
@@ -541,6 +549,7 @@ THE SECOND BOOK OF ESDRAS.
 9:45 And it came to pass after thirty years that God heard me thine handmaid, and looked upon my low estate, and considered my trouble, and gave me a son: and I rejoiced in him greatly, I and my husband, and all my neighbours: and we gave great honour unto the Mighty.
 9:46 And I nourished him with great travail.
 9:47 So when he grew up, and I came to take him a wife, I made him a feast day.
+
 10:1 And it so came to pass, that when my son was entered into his wedding chamber, he fell down, and died.
 10:2 Then we all overthrew the lights, and all my neighbours rose up to comfort me: and I remained quiet unto the second day at night.
 10:3 And it came to pass, when they had all left off to comfort me, to the end I might be quiet, then rose I up by night, and fled, and came hither into this field, as thou seest.
@@ -600,6 +609,7 @@ THE SECOND BOOK OF ESDRAS.
 10:57 For thou art blessed above many, and with the Most High art called by name, like as but few.
 10:58 But to-morrow at night thou shalt remain here;
 10:59 and so shall the Most High shew thee those visions in dreams, of what the Most High will do unto them that dwell upon earth in the last days. So I slept that night and another, like as he commanded me.
+
 11:1 And it came to pass the second night that I saw a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 11:2 And I saw, and, behold, she spread her wings over all the earth, and all the winds of heaven blew on her, and the clouds were gathered together against her.
 11:3 And I beheld, and out of her wings there grew [other] wings over against them; and they became little wings and small.
@@ -646,6 +656,7 @@ THE SECOND BOOK OF ESDRAS.
 11:44 The Most High also hath looked upon his times, and, behold, they are ended, and his ages are fulfilled.
 11:45 And therefore appear no more, thou eagle, nor thy horrible wings, nor thy evil little wings, nor thy cruel heads, nor thy hurtful talons, nor all thy vain body:
 11:46 that all the earth may be refreshed, and be eased, being delivered from thy violence, and that she may hope for the judgement and mercy of him that made her.
+
 12:1 And it came to pass, whiles the lion spake these words unto the eagle, I beheld,
 12:2 and, lo, the head that remained appeared no more, and the two wings which went over unto it arose and set themselves up to reign, and their kingdom was small, and full of uproar.
 12:3 And I beheld, and, lo, they appeared no more, and the whole body of the eagle was burnt, so that the earth was in great fear: then awaked I by reason of great ecstasy of mind, and from great fear, and said unto my spirit,
@@ -677,7 +688,7 @@ THE SECOND BOOK OF ESDRAS.
 12:29 And whereas thou sawest two under wings passing over unto the head that is on the right side,
 12:30 this is the interpretation: These are they, whom the Most High hath kept unto his end: this is the small kingdom and full of trouble, as thou sawest.
 12:31 And the lion, whom thou sawest rising up out of the wood, and roaring, and speaking to the eagle, and rebuking her for her unrighteousness, and all her words which thou hast heard;
-12:32 this is the anointed one, whom the Most High hath kept unto the end [of days, who shall spring up out of the seed of David, and he shall come and speak] unto them and reprove them for their wickedness and unrighteousness, and shall heap up before them their contemptuous dealings.
+12:32 this is the anointed one, whom the Most High hath kept unto the end {of days, who shall spring up out of the seed of David, and he shall come and speak} unto them and reprove them for their wickedness and unrighteousness, and shall heap up before them their contemptuous dealings.
 12:33 For at the first he shall set them alive in his judgement, and when he hath reproved them, he shall destroy them.
 12:34 For the rest of my people shall he deliver with mercy, those that have been preserved throughout my borders, and he shall make them joyful until the coming of the end, even the day of judgment, whereof I have spoken unto thee from the beginning.
 12:35 This is the dream that thou sawest, and this is the interpretation thereof:
@@ -697,9 +708,10 @@ THE SECOND BOOK OF ESDRAS.
 12:49 And now go your way every man to his own house, and after these days will I come unto you.
 12:50 So the people went their way into the city, like as I said unto them:
 12:51 but I sat in the field seven days, as [the angel] commanded me; and in those days I did eat only of the flowers of the field, and had my meat of the herbs.
+
 13:1 And it came to pass after seven days, I dreamed a dream by night:
 13:2 and, lo, there arose a wind from the sea, that it moved all the waves thereof.
-13:3 And I beheld, and, lo, [this wind caused to come up from the midst of the sea as it were the likeness of a man, and I beheld, and, lo,] that man flew with the clouds of heaven: and when he turned his countenance to look, all things trembled that were seen under him.
+13:3 And I beheld, and, lo, {this wind caused to come up from the midst of the sea as it were the likeness of a man, and I beheld, and, lo,} that man flew with the clouds of heaven: and when he turned his countenance to look, all things trembled that were seen under him.
 13:4 And whensoever the voice went out of his mouth, all they burned that heard his voice, like as the wax melteth when it feeleth the fire.
 13:5 And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of heaven, to make war against the man that came out of the sea.
 13:6 And I beheld, and, lo, he graved himself a great mountain, and flew upon it.
@@ -750,11 +762,12 @@ THE SECOND BOOK OF ESDRAS.
 13:51 Then said I, O Lord that bearest rule, shew me this: wherefore I have seen the man coming up from the midst of the sea.
 13:52 And he said unto me, like as one can neither seek out nor know what is in the deep of the sea, even so can no man upon earth see my Son, or those that be with him, but in the time of his day.
 13:53 This is the interpretation of the dream which thou sawest, and for this thou only art enlightened herein.
-13:54 For thou hast forsaken thine own [ways,] and applied thy diligence unto mine, and hast sought out my law.
+13:54 For thou hast forsaken thine own [ways], and applied thy diligence unto mine, and hast sought out my law.
 13:55 Thy life hast thou ordered in wisdom, and hast called understanding thy mother.
 13:56 And therefore have I shewed thee this; for there is a reward laid up with the Most High: and it shall be, after other three days I will speak other things unto thee, and declare unto thee mighty and wondrous things.
 13:57 Then went I forth and passed into the field, giving praise and thanks greatly unto the Most High because of his wonders, which he did from time to time;
 13:58 and because he governeth the time, and such things as fall in their seasons. And there I sat three days.
+
 14:1 And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras.
 14:2 And I said, Here am I, Lord. And I stood up upon my feet.
 14:3 Then said he unto me, In the bush I did manifestly reveal myself, and talked with Moses, when my people were in bondage in Egypt:
@@ -803,6 +816,7 @@ THE SECOND BOOK OF ESDRAS.
 14:46 but keep the seventy last, that thou mayest deliver them to such as be wise among thy people:
 14:47 for in them is the spring of understanding, the fountain of wisdom, and the stream of knowledge.
 14:48 And I did so.
+
 15:1 Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
 15:2 and cause thou them to be written in paper: for they are faithful and true.
 15:3 Fear not their imaginations against thee, let not the unbelief of them that speak against thee trouble thee.
@@ -866,6 +880,7 @@ THE SECOND BOOK OF ESDRAS.
 15:61 And thou shalt be cast down by them as stubble, and they shall be unto thee as fire;
 15:62 and shall devour thee, and thy cities, thy land, and thy mountains; all thy woods and thy fruitful trees shall they burn up with fire.
 15:63 They shall carry thy children away captive, and shall spoil thy wealth, and mar the glory of thy face.
+
 16:1 Woe unto thee, Babylon, and Asia! woe unto thee, Egypt, and Syria!
 16:2 Gird up yourselves with sackcloth and garments of hair, and bewail your children, and lament; for your destruction is at hand.
 16:3 A sword is sent upon you, and who is he that may turn it back?
@@ -908,7 +923,7 @@ THE SECOND BOOK OF ESDRAS.
 16:40 O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
 16:41 He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 16:42 he that occupieth merchandise, as he that hath no profit by it: and he that buildeth, as he that shall not dwell therein:
-16:43 he that soweth, as if he should not reap: so also he that pruneth [the vines,] as he that shall not gather the grapes:
+16:43 he that soweth, as if he should not reap: so also he that pruneth [the vines], as he that shall not gather the grapes:
 16:44 they that marry, as they that shall get no children; and they that marry not, as the widowed.
 16:45 Inasmuch as they that labour labour in vain;
 16:46 for strangers shall reap their fruits, and spoil their goods, overthrow their houses, and take their children captive, for in captivity and famine shall they beget their children:
